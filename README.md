@@ -1,4 +1,4 @@
-# Global-Ban-List
+# Global Ban List
 Global Ban List addon for Garry's mod servers
 # How to install
 1. Go to your garry's mod folder (example: C:\Example\GarrysModDS\garrysmod)
