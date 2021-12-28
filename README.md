@@ -6,7 +6,8 @@ Global Ban List addon for Garry's mod servers
 3. Start your server
 # Commands
   ```gbl_update``` - to update your gbl blacklist
-  ```gbl_ban``` - to ban the user (automatically adding steamid to our list)
+  
+  ```gbl_ban``` - to ban the user with automatically adding steamid to our list (example: gbl_ban STEAM_0:0:0 test)
 #### WARNING: to use gbl_ban correctly, insert your api key in the appropriate field in the gbl.lua file
 # API
 Global Ban List documentation - https://vladhogstudio.ddns.net/GlobalBanList
