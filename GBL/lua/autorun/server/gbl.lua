@@ -8,7 +8,7 @@ print("loading GBL...")
 local list = {}
 
 function update()
-	http.Fetch("http://vladhogstudio.ddns.net/GlobalBanListAPI/api/get_list",
+	http.Fetch("http://vladhog.ru/GlobalBanListAPI/api/get_list",
 		function(content)
 			list = util.JSONToTable(content)
 		end
