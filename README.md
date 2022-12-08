@@ -12,4 +12,4 @@ Global Ban List addon for Garry's mod servers
 # API
 Global Ban List documentation - https://vladhog.ru/GlobalBanList
 # Contacts
-vladhog.development@gmail.com
+development@vladhog.ru
