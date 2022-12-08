@@ -10,6 +10,6 @@ Global Ban List addon for Garry's mod servers
   ```gbl_ban``` - to ban the user with automatically adding steamid to our list (example: gbl_ban STEAM_0:0:0 test)
 #### WARNING: to use gbl_ban correctly, insert your api key in the appropriate field in the gbl.lua file
 # API
-Global Ban List documentation - https://vladhogstudio.ddns.net/GlobalBanList
+Global Ban List documentation - https://vladhog.ru/GlobalBanList
 # Contacts
 vladhog.development@gmail.com
